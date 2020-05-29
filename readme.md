@@ -27,4 +27,4 @@ Drag and Drop folders or indiviual files onto the skin to load and play them.
 
 Actual Size:
 
-![Winamp Skin Example Image] (example.png)
+![Winamp Skin Example Image] (https://github.com/Gitesh/WMP-Ubuntu-LCD-Skin/blob/master/example.png?raw=true)
