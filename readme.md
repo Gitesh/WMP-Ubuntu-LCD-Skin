@@ -10,6 +10,11 @@ _**Language:** XML, Action Script_
 
 **Theme for Windows Media Player**
 
+Actual Size:
+
+![Example Image of Skin](./example.png "Example Image of Skin")
+
+
 Features:
 
 1. Album Art which is loaded from the media file 
@@ -25,6 +30,3 @@ When not in focus, the skin becomes transparent. Hover over the with the mouse t
 
 Drag and Drop folders or indiviual files onto the skin to load and play them.
 
-Actual Size:
-
-![Example Skin](./example.png)
