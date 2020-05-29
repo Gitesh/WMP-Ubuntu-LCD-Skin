@@ -27,4 +27,4 @@ Drag and Drop folders or indiviual files onto the skin to load and play them.
 
 Actual Size:
 
-![Example Skin] (./example.png)
+![Example Skin](./example.png)
